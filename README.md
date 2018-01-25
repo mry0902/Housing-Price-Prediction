@@ -1,9 +1,11 @@
 [![wercker status](https://app.wercker.com/status/8a845958128d98d131a93a4655d6dc67/s/master "wercker status")](https://app.wercker.com/project/byKey/8a845958128d98d131a93a4655d6dc67)
 
-# Final-Project
+# Housing Price Prediction
 
 
-You should have a repo called Final_Project_Team_X where the X is your team number or name. Click on the repo's name and then Click on Clone or Download. Copy the URL for the repo for the next step.
+This is the final project for STA 521 Predictive Modeling at Duke University. The project is finished by a team with 4 members. Credits to my teammates: Liyu Gong, Yilin Gao, Wenqi Cheng, Mengrui Yin. 
+
+The project is to analyze housing price in Ames, lowa, United States. Detailed description of the project is at [Introduction of Final-Data-Analysis](https://github.com/mry0902/Housing-Price-Prediction/blob/master/Final-Data-Analysis.Rmd).
 
 Open Rstudio on saxon at http://saxon.stat.duke.edu:8787 or your local machine and login with your netid and password.
 
